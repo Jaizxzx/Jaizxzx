@@ -14,7 +14,32 @@
 
 ## 🧠 **Skills**
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-404040?style=for-the-badge&logo=Perforce&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+
+  <!-- Programming Languages -->
+  <h3>🧠 Programming Languages</h3>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js" />
+
+  <!-- Backend & Systems -->
+  <h3>⚙️ Backend & Systems</h3>
+  <img src="https://skillicons.dev/icons?i=fastapi,kafka,rabbitmq" />
+
+  <!-- Databases & Caching -->
+  <h3>🗄️ Databases & Caching</h3>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+
+  <!-- Machine Learning & CV -->
+  <h3>🤖 Machine Learning & Computer Vision</h3>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,matlab" />
+
+  <!-- DevOps & Cloud -->
+  <h3>☁️ DevOps & Cloud</h3>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,bash" />
+
+  </a>
+</p>
+
 
 ---
 <h2 align="center">👨‍💻 Contribution Graph</h2>
